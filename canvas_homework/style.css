@@ -1,0 +1,26 @@
+canvas {
+    display: flex;
+    justify-content: space-around;
+    border: solid 1px black;
+    background-color:white;
+}
+body
+{   
+    margin: 15rem;
+    background-color: tan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div 
+{
+    display: flex;
+    flex-flow: wrap column;
+    justify-content: center;
+}
+button
+{
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
